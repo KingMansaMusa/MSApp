@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938806305238",
+    "project_id": "msapp-aa500",
+    "storage_bucket": "msapp-aa500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938806305238:android:38915318f8d4c768354477",
+        "android_client_info": {
+          "package_name": "com.example.msapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938806305238-it75qmf3054hcbbgc6sv1tvao12kk7n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msapp",
+            "certificate_hash": "66a0f74d956b25bfe600c5a3d47dc8da57a92b2a"
+          }
+        },
+        {
+          "client_id": "938806305238-bbofd5m8etp7vhbg00ainnrua7nrepaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPDD-ksUc6WlXv3cNduv_gcgncDycBEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938806305238-bbofd5m8etp7vhbg00ainnrua7nrepaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
